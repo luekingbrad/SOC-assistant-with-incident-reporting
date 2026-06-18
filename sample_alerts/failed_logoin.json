@@ -1,0 +1,10 @@
+{
+  "rule": {
+    "level": 5,
+    "description": "Failed login attempt"
+  },
+  "agent": {
+    "name": "Ubuntu-VM"
+  },
+  "srcip": "192.168.1.100"
+}
