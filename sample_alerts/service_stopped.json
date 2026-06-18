@@ -1,0 +1,11 @@
+{
+  "rule": {
+    "level": 10,
+    "description": "Critical service stopped"
+  },
+  "agent": {
+    "name": "Ubuntu-VM"
+  },
+  "service": "sshd",
+  "status": "stopped"
+}
