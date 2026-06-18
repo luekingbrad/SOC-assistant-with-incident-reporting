@@ -1,0 +1,10 @@
+{
+  "rule": {
+    "level": 10,
+    "description": "New user account created"
+  },
+  "agent": {
+    "name": "Ubuntu-VM"
+  },
+  "user": "testadmin"
+}
