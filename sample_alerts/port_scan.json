@@ -1,0 +1,10 @@
+{
+  "rule": {
+    "level": 8,
+    "description": "Nmap scan detected"
+  },
+  "agent": {
+    "name": "Ubuntu-VM"
+  },
+  "srcip": "192.168.1.101"
+}
