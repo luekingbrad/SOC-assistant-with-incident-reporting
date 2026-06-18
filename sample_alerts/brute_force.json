@@ -1,0 +1,12 @@
+{
+  "rule": {
+    "level": 12,
+    "description": "Multiple failed login attempts detected"
+  },
+  "agent": {
+    "name": "Ubuntu-VM"
+  },
+  "srcip": "192.168.1.105",
+  "attempts": 25,
+  "username": "administrator"
+}
